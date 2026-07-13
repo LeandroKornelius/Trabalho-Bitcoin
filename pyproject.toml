@@ -1,0 +1,10 @@
+[project]
+name = "coin-selection-lab"
+version = "1.0.0"
+description = "Simulating and comparing Bitcoin coin selection algorithms (MAS.S62 final project)"
+requires-python = ">=3.10"
+dependencies = ["matplotlib>=3.7"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

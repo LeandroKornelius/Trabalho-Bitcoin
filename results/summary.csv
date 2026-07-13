@@ -1,0 +1,13 @@
+scenario,algorithm,payments,failures,total_fees,total_waste,mean_inputs,changeless_pct,final_utxo_count,final_balance
+hodler,largest_first,10,0,45748,32235,1.0,0.0,21,99623007
+hodler,srd,10,0,52977,38104,1.2,0.0,19,99615778
+hodler,knapsack,10,0,53793,38920,1.2,0.0,19,99614962
+hodler,bnb,10,0,52977,38104,1.2,0.0,19,99615778
+merchant,largest_first,103,0,479648,323809,1.76,0.0,229,28971340
+merchant,srd,103,0,632300,415261,2.63,0.0,139,28818688
+merchant,knapsack,103,0,648948,427149,2.7,0.0,132,28802040
+merchant,bnb,103,0,493691,260332,2.17,68.9,115,28957297
+retail,largest_first,72,0,200790,140298,1.03,0.0,90,4412910
+retail,srd,72,0,277939,185487,1.68,0.0,43,4335761
+retail,knapsack,72,0,275679,182547,1.69,0.0,42,4338021
+retail,bnb,72,0,232739,142327,1.47,16.7,46,4380961

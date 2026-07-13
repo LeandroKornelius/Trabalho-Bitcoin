@@ -1,0 +1,139 @@
+{
+ "name": "hodler",
+ "long_term_feerate": 10.0,
+ "initial_utxos": [
+  5000000
+ ],
+ "events": [
+  {
+   "type": "receive",
+   "amount": 8481188
+  },
+  {
+   "type": "pay",
+   "amount": 1759558,
+   "feerate": 23.5
+  },
+  {
+   "type": "pay",
+   "amount": 1961320,
+   "feerate": 33.0
+  },
+  {
+   "type": "receive",
+   "amount": 5013879
+  },
+  {
+   "type": "receive",
+   "amount": 2299954
+  },
+  {
+   "type": "pay",
+   "amount": 691768,
+   "feerate": 3.9
+  },
+  {
+   "type": "receive",
+   "amount": 3321531
+  },
+  {
+   "type": "receive",
+   "amount": 7426265
+  },
+  {
+   "type": "pay",
+   "amount": 1681468,
+   "feerate": 4.7
+  },
+  {
+   "type": "receive",
+   "amount": 8816912
+  },
+  {
+   "type": "receive",
+   "amount": 4470105
+  },
+  {
+   "type": "pay",
+   "amount": 1016792,
+   "feerate": 104.2
+  },
+  {
+   "type": "pay",
+   "amount": 1996697,
+   "feerate": 27.3
+  },
+  {
+   "type": "receive",
+   "amount": 6901533
+  },
+  {
+   "type": "receive",
+   "amount": 7542890
+  },
+  {
+   "type": "pay",
+   "amount": 1952650,
+   "feerate": 7.7
+  },
+  {
+   "type": "receive",
+   "amount": 4700025
+  },
+  {
+   "type": "receive",
+   "amount": 5579094
+  },
+  {
+   "type": "receive",
+   "amount": 1486955
+  },
+  {
+   "type": "receive",
+   "amount": 7783308
+  },
+  {
+   "type": "pay",
+   "amount": 1962668,
+   "feerate": 2.1
+  },
+  {
+   "type": "pay",
+   "amount": 256552,
+   "feerate": 105.1
+  },
+  {
+   "type": "pay",
+   "amount": 376050,
+   "feerate": 14.1
+  },
+  {
+   "type": "receive",
+   "amount": 1843636
+  },
+  {
+   "type": "receive",
+   "amount": 6492066
+  },
+  {
+   "type": "receive",
+   "amount": 6483562
+  },
+  {
+   "type": "receive",
+   "amount": 7360682
+  },
+  {
+   "type": "receive",
+   "amount": 8072684
+  },
+  {
+   "type": "receive",
+   "amount": 2374158
+  },
+  {
+   "type": "receive",
+   "amount": 1873851
+  }
+ ]
+}

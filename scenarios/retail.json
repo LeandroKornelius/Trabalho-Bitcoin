@@ -1,0 +1,724 @@
+{
+ "name": "retail",
+ "long_term_feerate": 10.0,
+ "initial_utxos": [
+  30000,
+  30000,
+  30000,
+  100000
+ ],
+ "events": [
+  {
+   "type": "pay",
+   "amount": 5278,
+   "feerate": 17.3
+  },
+  {
+   "type": "receive",
+   "amount": 31868
+  },
+  {
+   "type": "pay",
+   "amount": 73482,
+   "feerate": 4.8
+  },
+  {
+   "type": "receive",
+   "amount": 62314
+  },
+  {
+   "type": "receive",
+   "amount": 11956
+  },
+  {
+   "type": "pay",
+   "amount": 73426,
+   "feerate": 5.0
+  },
+  {
+   "type": "receive",
+   "amount": 6703
+  },
+  {
+   "type": "pay",
+   "amount": 22926,
+   "feerate": 20.2
+  },
+  {
+   "type": "receive",
+   "amount": 93236
+  },
+  {
+   "type": "receive",
+   "amount": 104595
+  },
+  {
+   "type": "receive",
+   "amount": 95165
+  },
+  {
+   "type": "pay",
+   "amount": 7695,
+   "feerate": 26.1
+  },
+  {
+   "type": "pay",
+   "amount": 51615,
+   "feerate": 3.6
+  },
+  {
+   "type": "pay",
+   "amount": 49400,
+   "feerate": 7.3
+  },
+  {
+   "type": "receive",
+   "amount": 64742
+  },
+  {
+   "type": "pay",
+   "amount": 12458,
+   "feerate": 36.0
+  },
+  {
+   "type": "receive",
+   "amount": 123858
+  },
+  {
+   "type": "pay",
+   "amount": 49819,
+   "feerate": 4.2
+  },
+  {
+   "type": "pay",
+   "amount": 11358,
+   "feerate": 15.1
+  },
+  {
+   "type": "pay",
+   "amount": 23417,
+   "feerate": 3.4
+  },
+  {
+   "type": "pay",
+   "amount": 75000,
+   "feerate": 3.9
+  },
+  {
+   "type": "pay",
+   "amount": 9331,
+   "feerate": 1.3
+  },
+  {
+   "type": "receive",
+   "amount": 75186
+  },
+  {
+   "type": "receive",
+   "amount": 87490
+  },
+  {
+   "type": "receive",
+   "amount": 135870
+  },
+  {
+   "type": "receive",
+   "amount": 125285
+  },
+  {
+   "type": "receive",
+   "amount": 41603
+  },
+  {
+   "type": "receive",
+   "amount": 146289
+  },
+  {
+   "type": "receive",
+   "amount": 117311
+  },
+  {
+   "type": "pay",
+   "amount": 54350,
+   "feerate": 10.0
+  },
+  {
+   "type": "receive",
+   "amount": 134372
+  },
+  {
+   "type": "receive",
+   "amount": 17351
+  },
+  {
+   "type": "pay",
+   "amount": 22033,
+   "feerate": 33.8
+  },
+  {
+   "type": "receive",
+   "amount": 21653
+  },
+  {
+   "type": "receive",
+   "amount": 127696
+  },
+  {
+   "type": "receive",
+   "amount": 8009
+  },
+  {
+   "type": "pay",
+   "amount": 17014,
+   "feerate": 26.1
+  },
+  {
+   "type": "receive",
+   "amount": 94174
+  },
+  {
+   "type": "receive",
+   "amount": 118971
+  },
+  {
+   "type": "receive",
+   "amount": 5850
+  },
+  {
+   "type": "pay",
+   "amount": 36522,
+   "feerate": 123.8
+  },
+  {
+   "type": "receive",
+   "amount": 32894
+  },
+  {
+   "type": "pay",
+   "amount": 41117,
+   "feerate": 25.2
+  },
+  {
+   "type": "receive",
+   "amount": 103019
+  },
+  {
+   "type": "pay",
+   "amount": 72697,
+   "feerate": 141.5
+  },
+  {
+   "type": "pay",
+   "amount": 44487,
+   "feerate": 2.0
+  },
+  {
+   "type": "receive",
+   "amount": 85612
+  },
+  {
+   "type": "receive",
+   "amount": 68143
+  },
+  {
+   "type": "pay",
+   "amount": 12322,
+   "feerate": 5.4
+  },
+  {
+   "type": "receive",
+   "amount": 144645
+  },
+  {
+   "type": "pay",
+   "amount": 18828,
+   "feerate": 38.4
+  },
+  {
+   "type": "receive",
+   "amount": 143326
+  },
+  {
+   "type": "pay",
+   "amount": 57461,
+   "feerate": 142.2
+  },
+  {
+   "type": "pay",
+   "amount": 28365,
+   "feerate": 22.0
+  },
+  {
+   "type": "pay",
+   "amount": 50944,
+   "feerate": 5.7
+  },
+  {
+   "type": "receive",
+   "amount": 63903
+  },
+  {
+   "type": "receive",
+   "amount": 10514
+  },
+  {
+   "type": "pay",
+   "amount": 32161,
+   "feerate": 1.1
+  },
+  {
+   "type": "pay",
+   "amount": 9716,
+   "feerate": 9.1
+  },
+  {
+   "type": "pay",
+   "amount": 11287,
+   "feerate": 3.5
+  },
+  {
+   "type": "receive",
+   "amount": 146356
+  },
+  {
+   "type": "receive",
+   "amount": 128907
+  },
+  {
+   "type": "receive",
+   "amount": 128987
+  },
+  {
+   "type": "pay",
+   "amount": 26957,
+   "feerate": 6.9
+  },
+  {
+   "type": "receive",
+   "amount": 112767
+  },
+  {
+   "type": "receive",
+   "amount": 19200
+  },
+  {
+   "type": "pay",
+   "amount": 14899,
+   "feerate": 7.6
+  },
+  {
+   "type": "pay",
+   "amount": 16322,
+   "feerate": 2.7
+  },
+  {
+   "type": "receive",
+   "amount": 115593
+  },
+  {
+   "type": "receive",
+   "amount": 126275
+  },
+  {
+   "type": "receive",
+   "amount": 24761
+  },
+  {
+   "type": "receive",
+   "amount": 149264
+  },
+  {
+   "type": "receive",
+   "amount": 146711
+  },
+  {
+   "type": "pay",
+   "amount": 14224,
+   "feerate": 133.4
+  },
+  {
+   "type": "receive",
+   "amount": 132307
+  },
+  {
+   "type": "receive",
+   "amount": 110130
+  },
+  {
+   "type": "pay",
+   "amount": 23579,
+   "feerate": 9.9
+  },
+  {
+   "type": "receive",
+   "amount": 124277
+  },
+  {
+   "type": "receive",
+   "amount": 132577
+  },
+  {
+   "type": "receive",
+   "amount": 82780
+  },
+  {
+   "type": "receive",
+   "amount": 20331
+  },
+  {
+   "type": "pay",
+   "amount": 73066,
+   "feerate": 3.8
+  },
+  {
+   "type": "receive",
+   "amount": 129987
+  },
+  {
+   "type": "receive",
+   "amount": 144231
+  },
+  {
+   "type": "receive",
+   "amount": 138124
+  },
+  {
+   "type": "receive",
+   "amount": 53712
+  },
+  {
+   "type": "receive",
+   "amount": 22815
+  },
+  {
+   "type": "pay",
+   "amount": 32828,
+   "feerate": 9.5
+  },
+  {
+   "type": "pay",
+   "amount": 77880,
+   "feerate": 6.6
+  },
+  {
+   "type": "receive",
+   "amount": 142044
+  },
+  {
+   "type": "receive",
+   "amount": 73358
+  },
+  {
+   "type": "receive",
+   "amount": 87361
+  },
+  {
+   "type": "receive",
+   "amount": 108752
+  },
+  {
+   "type": "receive",
+   "amount": 83642
+  },
+  {
+   "type": "receive",
+   "amount": 24016
+  },
+  {
+   "type": "receive",
+   "amount": 31209
+  },
+  {
+   "type": "receive",
+   "amount": 60877
+  },
+  {
+   "type": "receive",
+   "amount": 39722
+  },
+  {
+   "type": "pay",
+   "amount": 11016,
+   "feerate": 21.1
+  },
+  {
+   "type": "receive",
+   "amount": 147401
+  },
+  {
+   "type": "pay",
+   "amount": 71329,
+   "feerate": 8.4
+  },
+  {
+   "type": "receive",
+   "amount": 32154
+  },
+  {
+   "type": "pay",
+   "amount": 19601,
+   "feerate": 9.0
+  },
+  {
+   "type": "pay",
+   "amount": 22374,
+   "feerate": 6.4
+  },
+  {
+   "type": "pay",
+   "amount": 28685,
+   "feerate": 35.6
+  },
+  {
+   "type": "receive",
+   "amount": 70829
+  },
+  {
+   "type": "pay",
+   "amount": 8658,
+   "feerate": 4.8
+  },
+  {
+   "type": "receive",
+   "amount": 5929
+  },
+  {
+   "type": "receive",
+   "amount": 39293
+  },
+  {
+   "type": "pay",
+   "amount": 36335,
+   "feerate": 5.0
+  },
+  {
+   "type": "pay",
+   "amount": 75519,
+   "feerate": 1.7
+  },
+  {
+   "type": "pay",
+   "amount": 21536,
+   "feerate": 8.5
+  },
+  {
+   "type": "pay",
+   "amount": 21410,
+   "feerate": 1.4
+  },
+  {
+   "type": "receive",
+   "amount": 15458
+  },
+  {
+   "type": "pay",
+   "amount": 29535,
+   "feerate": 30.0
+  },
+  {
+   "type": "receive",
+   "amount": 111529
+  },
+  {
+   "type": "pay",
+   "amount": 22257,
+   "feerate": 66.0
+  },
+  {
+   "type": "receive",
+   "amount": 51413
+  },
+  {
+   "type": "pay",
+   "amount": 5248,
+   "feerate": 9.3
+  },
+  {
+   "type": "pay",
+   "amount": 55964,
+   "feerate": 35.9
+  },
+  {
+   "type": "pay",
+   "amount": 36970,
+   "feerate": 7.3
+  },
+  {
+   "type": "receive",
+   "amount": 15151
+  },
+  {
+   "type": "pay",
+   "amount": 31154,
+   "feerate": 9.3
+  },
+  {
+   "type": "receive",
+   "amount": 64662
+  },
+  {
+   "type": "receive",
+   "amount": 55627
+  },
+  {
+   "type": "receive",
+   "amount": 78034
+  },
+  {
+   "type": "pay",
+   "amount": 38585,
+   "feerate": 5.6
+  },
+  {
+   "type": "pay",
+   "amount": 72282,
+   "feerate": 1.2
+  },
+  {
+   "type": "pay",
+   "amount": 36237,
+   "feerate": 9.7
+  },
+  {
+   "type": "receive",
+   "amount": 33417
+  },
+  {
+   "type": "pay",
+   "amount": 47309,
+   "feerate": 19.4
+  },
+  {
+   "type": "pay",
+   "amount": 69033,
+   "feerate": 9.1
+  },
+  {
+   "type": "receive",
+   "amount": 16635
+  },
+  {
+   "type": "pay",
+   "amount": 2221,
+   "feerate": 8.3
+  },
+  {
+   "type": "pay",
+   "amount": 27825,
+   "feerate": 1.6
+  },
+  {
+   "type": "pay",
+   "amount": 45279,
+   "feerate": 29.9
+  },
+  {
+   "type": "receive",
+   "amount": 83727
+  },
+  {
+   "type": "receive",
+   "amount": 112057
+  },
+  {
+   "type": "receive",
+   "amount": 82504
+  },
+  {
+   "type": "pay",
+   "amount": 27144,
+   "feerate": 9.5
+  },
+  {
+   "type": "pay",
+   "amount": 24810,
+   "feerate": 19.0
+  },
+  {
+   "type": "receive",
+   "amount": 5106
+  },
+  {
+   "type": "receive",
+   "amount": 60098
+  },
+  {
+   "type": "receive",
+   "amount": 89475
+  },
+  {
+   "type": "receive",
+   "amount": 120909
+  },
+  {
+   "type": "pay",
+   "amount": 69000,
+   "feerate": 9.1
+  },
+  {
+   "type": "pay",
+   "amount": 24241,
+   "feerate": 18.5
+  },
+  {
+   "type": "pay",
+   "amount": 45933,
+   "feerate": 9.6
+  },
+  {
+   "type": "receive",
+   "amount": 86374
+  },
+  {
+   "type": "receive",
+   "amount": 57200
+  },
+  {
+   "type": "receive",
+   "amount": 17114
+  },
+  {
+   "type": "receive",
+   "amount": 129554
+  },
+  {
+   "type": "pay",
+   "amount": 11545,
+   "feerate": 9.0
+  },
+  {
+   "type": "pay",
+   "amount": 52328,
+   "feerate": 3.2
+  },
+  {
+   "type": "pay",
+   "amount": 2726,
+   "feerate": 35.8
+  },
+  {
+   "type": "pay",
+   "amount": 57724,
+   "feerate": 8.2
+  },
+  {
+   "type": "pay",
+   "amount": 62889,
+   "feerate": 3.2
+  },
+  {
+   "type": "pay",
+   "amount": 61829,
+   "feerate": 5.2
+  },
+  {
+   "type": "receive",
+   "amount": 88177
+  },
+  {
+   "type": "pay",
+   "amount": 60008,
+   "feerate": 31.6
+  }
+ ]
+}
